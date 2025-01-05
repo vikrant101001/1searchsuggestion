@@ -1,0 +1,87 @@
+Acura MDX
+Acura RDX
+Acura TLX
+Bentley Bentayga
+Bentley Continental
+Bentley Flying Spur
+BMW M3
+BMW M4
+BMW X5
+Chevrolet Camaro
+Chevrolet Corvette
+Chevrolet Silverado
+Dodge Challenger
+Dodge Charger
+Dodge Durango
+Ducati Panigale
+Ducati Monster
+Ducati Multistrada
+Ferrari F8
+Ferrari Roma
+Ferrari SF90
+Genesis G70
+Genesis G80
+Genesis GV80
+Honda Civic
+Honda Accord
+Honda CR-V
+Hyundai Elantra
+Hyundai Sonata
+Hyundai Tucson
+Infiniti Q50
+Infiniti QX50
+Infiniti QX80
+Jaguar F-PACE
+Jaguar XF
+Jaguar XJ
+Kawasaki Ninja
+Kawasaki Z900
+Kawasaki Versys
+Kia Forte
+Kia Seltos
+Kia Telluride
+Lamborghini Aventador
+Lamborghini Huracan
+Lamborghini Urus
+Lexus ES
+Lexus RX
+Lexus LS
+Maserati Ghibli
+Maserati Levante
+Maserati Quattroporte
+Mercedes C-Class
+Mercedes E-Class
+Mercedes S-Class
+Nissan Altima
+Nissan Maxima
+Nissan Rogue
+Porsche 911
+Porsche Cayenne
+Porsche Panamera
+Range Rover Evoque
+Range Rover Sport
+Range Rover Velar
+Rolls-Royce Cullinan
+Rolls-Royce Ghost
+Rolls-Royce Phantom
+Subaru Forester
+Subaru Impreza
+Subaru Outback
+Tesla Model 3
+Tesla Model S
+Tesla Model X
+Toyota Camry
+Toyota Corolla
+Toyota RAV4
+Triumph Street Triple
+Triumph Bonneville
+Triumph Tiger
+Volkswagen Atlas
+Volkswagen Golf
+Volkswagen Tiguan
+Volvo S60
+Volvo XC60
+Volvo XC90
+Yamaha MT-07
+Yamaha R1
+Yamaha YZF-R6 
